@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A software developer with a passion for quantum computing!</h3>
 
