@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypal123&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypal123" /> </p>
 
-- 🔭 I’m currently working on [Implementing quantum algorithms in Python using the Cirq library!](https://github.com/akshaypal123/quantum-projects)
+- 🔭 I’m currently working on: [Implementing quantum algorithms in Python using the Cirq library!](https://github.com/akshaypal123/quantum-projects)
 
-- 🌱 I’m currently learning **C/C++, C# and Q# (dotnet quantum computing SDK)**
+- 🌱 I’m currently learning: **C/C++, C# and Q# (dotnet quantum computing SDK)**
 
-- 💬 Ask me about **my thoughts on the future of quantum computing!**
+- 💬 Ask me about: **my thoughts on the future of quantum computing!**
 
-- 📫 How to reach me **akshay.anu@gmail.com**
+- 📫 How to reach me: ** Email me at akshay.anu@gmail.com**
 
-- 📄 Read about my experience and education [CV](https://1drv.ms/b/s!AiISxQfw7jnKgdVMCU0Nonb-iXhJFg?e=MNPn6B)
+- 📄 Read about my experience and education: [My CV](https://1drv.ms/b/s!AiISxQfw7jnKgdVMCU0Nonb-iXhJFg?e=MNPn6B)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
