@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **email me at akshay.anu@gmail.com**
 
-- 📄 Read about my experience and education: [My CV](https://1drv.ms/b/s!AiISxQfw7jnKgdVMCU0Nonb-iXhJFg?e=MNPn6B)
+- 📄 Read about my experience and education: [my CV](https://1drv.ms/b/s!AiISxQfw7jnKgdVMCU0Nonb-iXhJFg?e=MNPn6B)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
