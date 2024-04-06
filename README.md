@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypal123&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypal123" /> </p>
 
-- 🔭 I’m currently working on: [implementing quantum algorithms in Python using the Cirq library!](https://github.com/akshaypal123/quantum-projects)
+- 🔭 I’m currently working on: [implementing quantum algorithms in Python using the Cirq library!]([https://github.com/akshaypal123/python-quantum-algorithms])
 
-- 🌱 I’m currently learning: **C/C++, C# and Q# (dotnet quantum computing SDK)**
+- 🌱 I’m currently learning: **Java, Kubernetes and Kafka**
 
 - 💬 Ask me about: **my thoughts on the future of quantum computing!**
 
