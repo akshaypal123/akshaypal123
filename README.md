@@ -1,14 +1,8 @@
-<h1 align="left">Hi 👋, I'm Akshay</h1>
+<h1 align="left">Hi 👋 I'm Akshay</h1>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshaypal123.akshaypal123&left_text=Profile%20Views:"  />
-</div>
-
-###
-
-<p align="left">Software engineer based in London with a passion for quantum technology, currently pursuing an MSc in Quantum Technology while working full-time as a software engineer.</p>
+<p align="center">A software engineer with a passion for quantum computing. I am currently pursuing an MSc degree in Quantum Technology Applications and Management while also working full-time as a software engineer!</p>
 
 ###
 
@@ -16,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on: [implementing quantum algorithms in Python using the Cirq library!](https://github.com/akshaypal123/python-quantum-algorithms)<br><br>- 🌱 I’m currently learning: **how computers really work! Via Ben Eater's brilliant 65c02 breadboard computer series (https://eater.net/6502)**<br><br>- 💬 Ask me about: **my thoughts on the future of quantum computing!**<br><br>- 📫 How to reach me: **email me at akshay.anu@gmail.com**<br><br>- 📄 Read about my experience and education: [my CV](https://1drv.ms/b/s!AiISxQfw7jnKgdVMCU0Nonb-iXhJFg?e=MNPn6B)</p>
+<p align="left">- 🔭 I’m currently working on: implementing quantum algorithms in Python using the Cirq library! See my python-quantum-algorithms repository <br><br>- 🌱 I’m currently learning: how computers really work! Via Ben Eater's brilliant 65c02 breadboard computer series (https://eater.net/6502)<br><br>- 💬 Ask me about: my thoughts on the future of quantum computing!<br><br>- 📫 How to reach me: email me at akshay.anu@gmail.com<br><br></p>
 
 ###
 
@@ -49,13 +43,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -70,6 +62,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaypal123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypal123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
