@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A software engineer with a passion for quantum computing. I am currently pursuing an MSc degree in Quantum Technology Applications and Management while also working full-time as a software engineer!</p>
+<p align="left">A software engineer with a passion for quantum computing. I am currently pursuing an MSc degree in Quantum Technology Applications and Management while also working full-time as a software engineer!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on: implementing quantum algorithms in Python using the Cirq library! See my python-quantum-algorithms repository <br><br>- 🌱 I’m currently learning: how computers really work! Via Ben Eater's brilliant 65c02 breadboard computer series (https://eater.net/6502)<br><br>- 💬 Ask me about: my thoughts on the future of quantum computing!<br><br>- 📫 How to reach me: email me at akshay.anu@gmail.com<br><br></p>
+<p align="left">- 🔭 I’m currently working on: implementing quantum algorithms in Python using the Cirq library! See my python-quantum-algorithms repository <br><br>- 🌱 I’m currently learning: how computers work at the lowest level! Via Ben Eater's brilliant 65c02 breadboard computer series (https://eater.net/6502)<br><br>- 💬 Ask me about: my thoughts on the future of quantum computing!<br><br>- 📫 How to reach me: email me at akshay.anu@gmail.com<br><br></p>
 
 ###
 
