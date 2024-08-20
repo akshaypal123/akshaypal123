@@ -2,6 +2,6 @@
 
 <h3 align="left">A software engineer with a passion for quantum computing.</h3>
 
-To learn more about my skills, experience and education please have a look at [my CV!](https://1drv.ms/b/s!AiISxQfw7jnKgeIszW13hdU66LKDnw)
+To learn more about my skills, experience and education please have a look at [my CV!]([https://1drv.ms/b/s!AiISxQfw7jnKgeIszW13hdU66LKDnw])
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypal123&langs_count=5&hide_progress=false)
